@@ -1,2 +1,2 @@
-# Ashwamedham
-Mini Project, Ashwamedham is a reverse quiz game.
+# Aswamedham
+Mini Project, Aswamedham is a reverse quiz game.
